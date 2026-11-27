@@ -1,0 +1,23 @@
+# Java / Maven
+target/
+*.class
+*.jar
+
+# Environment variables
+.env
+.env.*
+
+# Frontend
+node_modules/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
